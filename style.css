@@ -1,5 +1,7 @@
 .titulo{
   text-align: center;
+  display: block;
+  width: 60px;
   border-style: double;
 }
 
