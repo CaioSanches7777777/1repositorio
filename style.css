@@ -20,5 +20,5 @@ div{
 .destaque:hover{
   border: outset;
   display: block;
-  width: fit-content;
+  width: 160px;
 }
