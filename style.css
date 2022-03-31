@@ -6,6 +6,12 @@
   border-style: double;
 }
 
+body{
+  align-items: center;
+  display: flex;
+  justify-content:center;
+}
+
 .ndestaque{
   list-style-type: none;
   border: ;
