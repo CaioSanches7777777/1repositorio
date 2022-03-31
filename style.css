@@ -14,7 +14,12 @@
 
 .dados{
   align-items: center;
+  display: block;
   
+}
+
+#espacovasio{
+  opacity: 0;
 }
 
 .ndestaque{
