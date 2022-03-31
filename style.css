@@ -14,7 +14,8 @@ div{
 
 .ndestaque{
   list-style-type: none;
-  border: ;
+  display: block;
+  width: fit-content;
 }
 
 .destaque:hover{
