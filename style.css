@@ -22,4 +22,10 @@ div{
   border: outset;
   display: block;
   width: fit-content;
+  background-color:wheat;
+}
+
+ul{
+  background-color:#bebebe;
+  border:inset;
 }
