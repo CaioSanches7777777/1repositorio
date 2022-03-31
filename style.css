@@ -4,6 +4,9 @@
   padding: 10px;
   text-align: center;
   border-style: double;
+}
+ 
+div{
   align-items: center;
   display: flex;
   justify-content:center;
